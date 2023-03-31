@@ -1,0 +1,39 @@
+body{
+    background-color: darksalmon;
+    text-align: center;
+
+}
+
+.background{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 53px;
+}
+
+.btn1{
+    height: 80px;
+    font-size: x-large;
+    width: 200px;
+    border-radius: 34px; 
+    margin-left:40px;
+}
+.funcdiv{
+    height: 400px;
+    width:700px;
+    font-size: x-large;
+    border: 2px solid black;
+    text-align: center;
+    background-color: aqua;
+    border-radius: 70px;
+}
+
+.classdiv{
+    height: 400px;
+    width:700px;
+    font-size: x-large;
+    border: 2px solid black;
+    text-align: center;
+    background-color:orchid;
+    border-radius: 70px;
+}
